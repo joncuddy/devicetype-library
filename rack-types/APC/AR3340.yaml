@@ -1,0 +1,19 @@
+---
+manufacturer: APC
+model: AR3340
+slug: apc-ar3340
+form_factor: 4-post-cabinet
+width: 19
+u_height: 42
+starting_unit: 1
+outer_height: 1991
+outer_depth: 1200
+outer_width: 750
+outer_unit: mm
+weight: 161
+max_weight: 1701
+weight_unit: kg
+mounting_depth: 279
+desc_units: false
+comments: '[APC NetShelter SX, Networking Rack Enclosure, 42U, Black, 1991H x 750W x 1200D mm [TAA]](https://www.se.com/us/en/product/AR3340/apc-netshelter-sx-networking-rack-enclosure-42u-black-1991h-x-750w-x-1200d-mm-taa/)'
+description: 'APC NetShelter SX, Networking Rack Enclosure, 42U, Black, 1991H x 750W x 1200D mm [TAA]'
